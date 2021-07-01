@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am an M.Sc. Data Science student at [Sabancı University](https://www.sabanciuniv.edu/), a member of [VRL Lab](http://varollab.com/) and working with [Onur Varol, Ph.D](http://www.onurvarol.com/). My research focuses on the well-being and my ultimate goal is to raise public awareness of mental and physical health issues.
+Currently, I am an M.Sc. Data Science student at [Sabancı University](https://www.sabanciuniv.edu/), a member of [VRL Lab](http://varollab.com/) and working with [Dr. Onur Varol](http://www.onurvarol.com/). My research focuses on the well-being and my ultimate goal is to raise public awareness of mental and physical health issues.
 
 In my projects, I collect data by APIs or webscraping techniques, and use machine learning and deep learning models to draw inferences.
 
