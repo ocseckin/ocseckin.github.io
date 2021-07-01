@@ -12,4 +12,4 @@ Currently, I am an M.Sc. Data Science student at [Sabanci University](https://ww
 
 In my projects, I collect data by APIs or webscraping techniques and use machine learning and deep learning models to draw inferences.
 
-I got my Bachelor’s degree from Galatasaray University Economics. Following the graduation, I worked in İş Bankası as a Credit Analyst where I was involved in projects about credit risk evaluation, monitoring and loan automation.
+I got my Bachelor’s degree from [Galatasaray University](https://gsu.edu.tr/en/) Economics. Following the graduation, I worked in İş Bankası as a Credit Analyst where I was involved in projects about credit risk evaluation, monitoring and loan automation.
