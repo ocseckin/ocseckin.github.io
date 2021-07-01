@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Özgür Can Seçkin / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Özgür Can Seçkin"
 description              : &description "M.Sc. Data Science"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Özgür Can Seçkin"
-  avatar           : "profile.png"
+  avatar           : "ocs.jpg"
   bio              : "First GSU Economics, now SU Data Science - Member of VRL Lab"
   location         : "İstanbul, Turkey"
   employer         :
