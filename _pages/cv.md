@@ -14,7 +14,6 @@ Education
 * M.S. in Data Science, Sabancı University, 2021
 * B.S. in Economics, Galatasaray University, 2019
 * B.S. in Economics, Université de Paris: Panthéon Sorbonne, 2018
-* 
 
 Work experience
 ======
