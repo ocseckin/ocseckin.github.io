@@ -15,16 +15,17 @@ Education
 * B.S. in Economics, Galatasaray University, 2019
 * B.S. in Economics, Université de Paris: Panthéon Sorbonne, 2018
 
+
 Work experience
 ======
-* 2019 - 2020: İş Bankası: Credit Analytics Assistant Specialist
+* 2019 Aug. - 2020 Sep.: İş Bankası: Credit Analytics Assistant Specialist
   * Modelling and automatizing the commercial credit processes
 
 * 2018 Jul. - 2019 Jan.: Borusan Lojistik: Strategic Marketing Intern
   * Market Research
   * CRM Project
 
-* 2017 July – 2017 Sep: Deniz Invest – Internship in Stock Market Research
+* 2017 Jul. - 2017 Sep.: Deniz Invest – Internship in Stock Market Research
   * Bloomberg App.
   * Reporting
 
