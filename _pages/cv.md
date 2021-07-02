@@ -24,7 +24,7 @@ Work experience
   * Market Research
   * CRM Project
 
-* Fall 2020: Deniz Invest – Internship in Stock Market Research
+* 2017 July – 2017 Sep: Deniz Invest – Internship in Stock Market Research
   * Bloomberg App.
   * Reporting
 
