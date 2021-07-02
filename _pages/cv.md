@@ -45,7 +45,7 @@ Teaching
 * Summer 2021: Teaching Assistant
   * CS515 - Machine Learning
 
-* Spring 2020: Teaching Assistant
+* Spring 2021: Teaching Assistant
   * CS404 - Artificial Intelligence
 
 * Fall 2020: Teaching Assistant
