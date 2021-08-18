@@ -18,7 +18,7 @@ Education
 
 Experience
 ======
-* 2021 May. - 2021 Jun.: Summer Institute of Computational Social Sciences (SICSS)
+* 2021 May. - 2021 Jun.: Summer Institute of Computational Social Sciences (SICSS) "sicss-logo.png"
   * Covid-19 Vaccine Perception in Turkey: Evidence from Twitter Data
 
 * 2019 Aug. - 2020 Sep.: İş Bankası: Credit Analytics Assistant Specialist
