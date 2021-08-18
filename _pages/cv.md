@@ -16,8 +16,11 @@ Education
 * B.S. in Economics, Université de Paris: Panthéon Sorbonne, 2018
 
 
-Work experience
+Experience
 ======
+* 2021 May. - 2021 Jun.: Summer Institute of Computational Social Sciences (SICSS)
+  * Covid-19 Vaccine Perception in Turkey: Evidence from Twitter Data
+
 * 2019 Aug. - 2020 Sep.: İş Bankası: Credit Analytics Assistant Specialist
   * Modelling and automatizing the commercial credit processes
 
