@@ -14,6 +14,7 @@ We examine how the support providing entities are connected to each other by run
 &nbsp;
 
 **Covid-19 Vaccine Perception in Turkey**
+&nbsp;
 In SICSS 2021, we started investigating the impressions of people tweeting in Turkish about Covid-19 vaccines. We study:
   - The sentiment towards different vaccines and their nomenclatures.
   - Media coverage of the media channels about vaccines.
