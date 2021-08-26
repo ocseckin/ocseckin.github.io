@@ -13,3 +13,13 @@ Currently, I am an M.Sc. Data Science student at [Sabancı University](https://w
 In my projects, I collect data by APIs or webscraping techniques, and use machine learning and deep learning models to draw inferences.
 
 I got my Bachelor’s degree from [Galatasaray University](https://gsu.edu.tr/en/) Economics. While I was an undergrad, I had two internship experiences in [Denizbank](https://www.denizbank.com/en/) - Equity Research, and [Borusan Logistics](https://www.borusanlojistik.com/en) - Strategic Marketing. Following the graduation, I worked for [İş Bankası](https://www.isbank.com.tr/en) as a Credit Analyst where I was involved in projects about credit risk evaluation, monitoring and loan automation.
+
+Research Interests
+======
+
+- Computational Social Science
+- Spread of Disinformation & Misinformation Through Social Media
+- Network Science
+- Machine Learning
+- Data Science
+- Economics
