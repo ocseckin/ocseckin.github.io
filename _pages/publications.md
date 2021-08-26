@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Academic Support Networks**
-<img style="float: right;" src="/images/academic_network.png" alt="Academic Network" width="180"/>
+<img style="float: right;" src="/images/academic_network.png" alt="Academic Network" width="140"/>
 
 My thesis focuses on the "academic support networks". We investigate the thesis journey of PhD. students by extracting information from 27 thousand theses collected from pqdtopen.com (which is manually scraped from the website by a webscraping algorithm coded by me). The paper aims to inspect who is acknowledged, who is not, and how are they acknowledged using state of the art natural language processing tools that allow making large-scale research.
 We examine how the support providing entities are connected to each other by running network analysis and study gender based and disciplinary differences.
