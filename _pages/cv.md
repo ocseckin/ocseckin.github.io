@@ -5,6 +5,6 @@
   <title>Özgür Can Seçkin's Résumé</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="/OzgurCanSeckinCV.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src="OzgurCanSeckinCV.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
