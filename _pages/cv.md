@@ -1,56 +1,10 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
-Education
-======
-* M.S. in Data Science, Sabancı University, 2021
-* B.S. in Economics, Galatasaray University, 2019
-* B.S. in Economics, Université de Paris: Panthéon Sorbonne, 2018
-
-
-Experience
-======
-* 2021 May. - 2021 Jun.: Summer Institute of Computational Social Sciences (SICSS)
-  * Covid-19 Vaccine Perception in Turkey: Evidence from Twitter Data
-
-* 2019 Aug. - 2020 Sep.: İş Bankası: Credit Analytics Assistant Specialist
-  * Modelling and automatizing the commercial credit processes
-
-* 2018 Jul. - 2019 Jan.: Borusan Lojistik: Strategic Marketing Intern
-  * Market Research
-  * CRM Project
-
-* 2017 Jul. - 2017 Sep.: Deniz Invest – Internship in Stock Market Research
-  * Bloomberg App.
-  * Reporting
-
-  
-Languages
-======
-* English (TOEFL 93)
-* French (Delf C1)
-* Spanish (Beginner)
-* Python
-* SQL
-* SAS
-* R
-
-
-Teaching
-======
-* Summer 2021: Teaching Assistant
-  * CS515 - Machine Learning
-
-* Spring 2021: Teaching Assistant
-  * CS404 - Artificial Intelligence
-
-* Fall 2020: Teaching Assistant
-  * CS515 - Machine Learning
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Özgür Can Seçkin's Résumé</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="/OzgurCanSeckinCV.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
