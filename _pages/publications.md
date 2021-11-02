@@ -24,5 +24,6 @@ In SICSS 2021, we started investigating the impressions of people tweeting in Tu
 
 Two of our articles were published in Teyit.org (in Turkish) :
   - ["How are Covid-19 vaccines perceived by society and the media?"] (https://teyit.org/teyitpedia-turkiyede-covid-19-asilari-toplum-tarafindan-nasil-algilaniyor)
-<img style="float: right;" src="/images/vaccine_sentiment.png" alt="WordCloud" width="180"/>
   - ["Vaccine disinformation in Turkey: Who is spreading false information, how is their network?"]
+
+<img style="float: right;" src="/images/vaccine_sentiment.png" alt="WordCloud" width="180"/>
