@@ -22,5 +22,6 @@ In SICSS 2021, we started investigating the impressions of people tweeting in Tu
   - Bot detection.
   - Usage of pronouns.
 
-Our first article was published by Teyit.org (in Turkish) :
-https://teyit.org/teyitpedia-turkiyede-covid-19-asilari-toplum-tarafindan-nasil-algilaniyor
+Two of our articles were published in Teyit.org (in Turkish) :
+  - [How are Covid-19 vaccines perceived by society and the media?](https://teyit.org/teyitpedia-turkiyede-covid-19-asilari-toplum-tarafindan-nasil-algilaniyor)
+  - [Vaccine disinformation in Turkey: Who is spreading false information, how is their network?](https://teyit.org/teyitpedia-turkiyede-asi-dezenformasyonu-yanlis-bilgiyi-kimler-yayiyor-iliski-aglari-ne)
