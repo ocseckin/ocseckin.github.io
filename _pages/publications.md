@@ -31,4 +31,4 @@ Two of our articles were published in Teyit.org (in Turkish) :
 &nbsp;
 
 **Covid-19 Perception & Dis/Misinformation Spread in Turkey**
-In this paper, I present a model that takes into account both textual and non-textual characteristicsof social media users by utilizing graph convolutional neural networks along with a pre-trained Trans-formers model.  I’ll use the suggested model to discover political traits of vulnerable groups on socialmedia who are susceptible to misleading information.  My goal is to assist policymakers in developingsystematic techniques to reaching different stratifications of the general public.
+In this paper, I present a model that takes into account both textual and non-textual characteristicsof social media users by utilizing graph convolutional neural networks along with a pre-trained Transformers model.  I’ll use the suggested model to discover political traits of vulnerable groups on social media who are susceptible to misleading information.  My goal is to assist policymakers in developing systematic techniques to reaching different stratifications of the general public.
