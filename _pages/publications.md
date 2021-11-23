@@ -26,5 +26,7 @@ Two of our articles were published in Teyit.org (in Turkish) :
   - [How are Covid-19 vaccines perceived by society and the media?](https://teyit.org/teyitpedia-turkiyede-covid-19-asilari-toplum-tarafindan-nasil-algilaniyor)
   - [Vaccine disinformation in Turkey: Who is spreading false information, how is their network?](https://teyit.org/teyitpedia-turkiyede-asi-dezenformasyonu-yanlis-bilgiyi-kimler-yayiyor-iliski-aglari-ne)
 
+&nbsp;
+
 **Covid-19 Perception & Dis/Misinformation Spread in Turkey**
 In this paper, I present a model that takes into account both textual and non-textual characteristicsof social media users by utilizing graph convolutional neural networks along with a pre-trained Trans-formers model.  I’ll use the suggested model to discover political traits of vulnerable groups on socialmedia who are susceptible to misleading information.  My goal is to assist policymakers in developingsystematic techniques to reaching different stratifications of the general public.
