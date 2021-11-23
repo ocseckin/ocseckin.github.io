@@ -13,10 +13,12 @@ We examine how the support providing entities are connected to each other by run
 
 &nbsp;
 
-<img style="float: right;" src="/images/vac_wordcloud.png" alt="WordCloud" width="180"/>
 
 **Covid-19 Vaccine Perception in Turkey**
 In SICSS 2021, we started investigating the impressions of people tweeting in Turkish about Covid-19 vaccines. We study:
+
+<img style="float: right;" src="/images/vac_wordcloud.png" alt="WordCloud" width="180"/>
+
   - The sentiment towards different vaccines and their nomenclatures.
   - Media coverage of the media channels about vaccines.
   - Bot detection.
