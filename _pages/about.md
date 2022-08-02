@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am an M.Sc. Data Science student at [Sabancı University](https://www.sabanciuniv.edu/en), a member of [VRL Lab](http://varollab.com/) and working with [Dr. Onur Varol](http://www.onurvarol.com/). My research focuses on well-being and my ultimate goal is to raise public awareness of mental and physical health issues.
+I am an Informatics Ph.D. student at [Indiana University - Bloomington](https://luddy.indiana.edu/index.html). My research focuses on establishing strategies for analyzing online behaviors in order to increase well-being and address public issues using internet data. Diffusion of dis- and misinformation on social media, uncovering behavioral embeddings of communities, science of science and polarization are among my subjects of interest.
 
-In my projects, I collect data by APIs or webscraping techniques, and use machine learning and deep learning models to draw inferences.
-
-I got my Bachelor’s degree from [Galatasaray University](https://gsu.edu.tr/en/) Economics. While I was an undergrad, I had two internship experiences in [Denizbank](https://www.denizbank.com/en/) - Equity Research, and [Borusan Logistics](https://www.borusanlojistik.com/en) - Strategic Marketing. Following the graduation, I worked for [İş Bankası](https://www.isbank.com.tr/en) as a Credit Analyst where I was involved in projects about credit risk evaluation, monitoring and loan automation.
+I got a bachelor’s degree in Economics from [Galatasaray University](https://gsu.edu.tr/en/) and received a master's degree in Data Science from [Sabancı University](https://www.sabanciuniv.edu/en), and worked as a member of [VRL Lab](http://varollab.com/) under the supervision of [Dr. Onur Varol](http://www.onurvarol.com/).
 
 Research Interests
 ======
