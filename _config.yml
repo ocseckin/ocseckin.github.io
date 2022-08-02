@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Özgür Can Seçkin"
-description              : &description "M.Sc. Data Science"
+name                     : &name "Ozgur Can Seckin"
+description              : &description "PhD. Informatics"
 url                      : https://www.ozgurcanseckin.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ocseckin/ocseckin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Özgür Can Seçkin"
   avatar           : "ocs.jpg"
-  bio              : "First GSU Economics, now SU Data Science - Member of VRL Lab"
+  bio              : "IU Bloomington Informatics, SU Data Science - Member of VRL Lab, GSU Economics"
   location         : "İstanbul, Turkey"
   employer         :
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
