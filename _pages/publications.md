@@ -24,11 +24,9 @@ author_profile: true
 .paper-thumb {
   width: 150px;
   min-width: 150px;
-  height: 110px;
-  object-fit: cover;
+  height: auto;
   border-radius: 7px;
   border: 1px solid #eee;
-  background: #f5f5f5;
 }
 .paper-info {
   flex: 1;
@@ -170,7 +168,7 @@ author_profile: true
 <div class="paper-card">
   <img class="paper-thumb" src="/images/vaccine_debate.png" alt=""/>
   <div class="paper-info">
-    <p class="paper-title"><a href="https://doi.org/10.1177/20563051241229657">Mechanisms Driving Online Vaccine Debate During the COVID-19 Pandemic</a></p>
+    <p class="paper-title"><a href="https://doi.org/10.1177/20563051241229657">pisms Driving Online Vaccine Debate During the COVID-19 Pandemic</a></p>
     <span class="venue-badge badge-published">Social Media + Society 2024</span>
     <p class="paper-desc">We study the mechanisms behind vaccine debate on social media during the COVID-19 pandemic, examining how anti-vaccine misinformation spread and the role of inauthentic accounts in shaping public perception. The paper highlights how platform dynamics amplified vaccine skepticism and identifies key drivers of engagement with misleading narratives.</p>
   </div>
