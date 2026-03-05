@@ -102,7 +102,7 @@ Previously, I worked at [Plaid](https://plaid.com/) and [Glassdoor](http://glass
 <ul class="news-list">
   <li class="news-item">
     <span class="news-date">Jun 2025</span>
-    <span class="news-text"><span class="news-tag tag-industry">Industry</span> Joined <a href="https://plaid.com/">Plaid</a> as a Machine Learning Engineer for the summer.</span>
+    <span class="news-text"><span class="news-tag tag-industry">Industry</span> Joined <a href="https://plaid.com/blog/2025-plinterns/#:~:text=Machine%20Learning%20Interns-,Ozgur%20Can%20Seckin,-Team%3A%20Data%20Foundations">Plaid</a> as a Machine Learning Engineer for the summer.</span>
   </li>
   <li class="news-item">
     <span class="news-date">Apr 2025</span>
