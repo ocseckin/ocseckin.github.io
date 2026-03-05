@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Özgür Can Seçkin"
+  name             : "Ozgur Can Seckin"
   avatar           : "ocs.jpg"
-  bio              : "IU Bloomington Informatics, SU Data Science - Member of VRL Lab, GSU Economics"
-  location         : "İstanbul, Turkey"
+  bio              : "IU Bloomington Informatics PhD. - OSoME, SU Data Science - VRL Lab, GSU Economics"
+  location         : "Bloomington, USA"
   employer         :
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : seckinozgurcan@sabanciuniv.edu
+  googlescholar    : https://scholar.google.com/citations?user=s2DSaMcAAAAJ&hl=en&oi=ao
+  email            : oseckin@iu.edu
   researchgate     : https://www.researchgate.net/profile/Oezguer_Seckin # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
