@@ -161,16 +161,18 @@ author_profile: true
   <div class="paper-info">
     <p class="paper-title"><a href="https://escholarship.org/uc/item/2r3874sx">Quantifying the Digital Phenotype of Loneliness on Twitter</a></p>
     <span class="venue-badge badge-published">CogSci 2024</span>
-    <p class="paper-desc">We characterize loneliness on Twitter using text embeddings and social features. Lonely users are spatially separable from controls in embedding space, exhibiting self-referential language (e.g., "I should", "but I"), fewer social connections, and lower-valence posts. Results provide a starting point for computational diagnostics of loneliness from social media behavior.</p>
+    <p class="paper-desc">We characterize loneliness on Twitter using text embeddings and social features. Lonely users are spatially separable from controls in embedding space, exhibiting self-referential language (e.g., "I should", "but I"), fewer social connections, and lower-valence posts. Results provide a starting point for computational diagnostics of loneliness from social media behavior. This work was covered by [IU News](https://news.iu.edu/luddy/live/news/44124-difference-making-research-highlights-luddy-grad).</p>
   </div>
 </div>
 
 <div class="paper-card">
   <img class="paper-thumb" src="/images/vaccine_debate.png" alt=""/>
   <div class="paper-info">
-    <p class="paper-title"><a href="https://doi.org/10.1177/20563051241229657">pisms Driving Online Vaccine Debate During the COVID-19 Pandemic</a></p>
+    <p class="paper-title"><a href="https://doi.org/10.1177/20563051241229657">Mechanisms Driving Online Vaccine Debate During the COVID-19 Pandemic</a></p>
     <span class="venue-badge badge-published">Social Media + Society 2024</span>
-    <p class="paper-desc">We study the mechanisms behind vaccine debate on social media during the COVID-19 pandemic, examining how anti-vaccine misinformation spread and the role of inauthentic accounts in shaping public perception. The paper highlights how platform dynamics amplified vaccine skepticism and identifies key drivers of engagement with misleading narratives.</p>
+    <p class="paper-desc">We study the mechanisms behind vaccine debate on social media during the COVID-19 pandemic, examining how anti-vaccine misinformation spread and the role of inauthentic accounts in shaping public perception. The paper highlights how platform dynamics amplified vaccine skepticism and identifies key drivers of engagement with misleading narratives. This work was covered by Teyit.org (in Turkish):
+    - [How are Covid-19 vaccines perceived by society and the media?](https://teyit.org/teyitpedia/turkiyede-covid-19-asilari-toplum-tarafindan-nasil-algilaniyor)
+    - [Vaccine disinformation in Turkey: Who is spreading false information, how is their network?](https://teyit.org/teyitpedia/turkiyede-asi-dezenformasyonu-yanlis-bilgiyi-kimler-yayiyor-iliski-aglari-ne)</p>
   </div>
 </div>
 
@@ -179,6 +181,6 @@ author_profile: true
   <div class="paper-info">
     <p class="paper-title"><a href="https://journals.sagepub.com/doi/10.1177/20563051241229657">Academic Support Network Reflects Doctoral Experience and Productivity</a></p>
     <span class="venue-badge badge-published">EPJ Data Science 2022</span>
-    <p class="paper-desc">We analyze 26,236 dissertation acknowledgments to build an "academic support network" revealing five communities that support PhD students: Academic, Administration, Family, Friends &amp; Colleagues, and Spiritual. Female students mention fewer people across most communities, and the total number of acknowledgments predicts whether a discipline operates as individual or team science. University rankings and the size of academic support networks are positively correlated with productivity.</p>
+    <p class="paper-desc">We analyze 26,236 dissertation acknowledgments to build an "academic support network" revealing five communities that support PhD students: Academic, Administration, Family, Friends &amp; Colleagues, and Spiritual. Female students mention fewer people across most communities, and the total number of acknowledgments predicts whether a discipline operates as individual or team science. University rankings and the size of academic support networks are positively correlated with productivity. This work was covered by [BioMed Central](https://blogs.biomedcentral.com/on-physicalsciences/2022/12/13/academic-support-network/)</p>
   </div>
 </div>
