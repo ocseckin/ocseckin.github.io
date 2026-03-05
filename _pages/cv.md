@@ -11,32 +11,40 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, Sabancı University, 2021
+* Ph.D. in Informatics, Indiana University Bloomington, 2022 - present
+* M.S. in Data Science, Sabancı University, 2022
 * B.S. in Economics, Galatasaray University, 2019
 * B.S. in Economics, Université de Paris: Panthéon Sorbonne, 2018
 
 
 Experience
 ======
+* 2022 Aug. - present: Observatory on Social Media (OSoMe) – Research Assistant
+  * Bloomington, Indiana
+
+* 2025 Jun. - 2025 Sep.: Plaid – Machine Learning Engineer
+  * New York, New York
+
+* 2023 May. - 2023 Aug.: Glassdoor – ML Knowledge Engineer Intern
+  * Remote
+
 * 2021 May. - 2021 Jun.: Summer Institute of Computational Social Sciences (SICSS)
-  * Covid-19 Vaccine Perception in Turkey: Evidence from Twitter Data
+  * Istanbul, Turkey
 
-* 2019 Aug. - 2020 Sep.: İş Bankası: Credit Analytics Assistant Specialist
-  * Modelling and automatizing the commercial credit processes
+* 2019 Aug. - 2020 Sep.: İş Bankası – Credit Analytics Assistant Specialist
+  * Istanbul, Turkey
 
-* 2018 Jul. - 2019 Jan.: Borusan Lojistik: Strategic Marketing Intern
-  * Market Research
-  * CRM Project
+* 2018 Jul. - 2019 Jan.: Borusan Lojistik – Strategic Marketing Intern
+  * Istanbul, Turkey
 
-* 2017 Jul. - 2017 Sep.: Deniz Invest – Internship in Stock Market Research
-  * Bloomberg App.
-  * Reporting
+* 2017 Jul. - 2017 Sep.: DenizBank – Equity Research Intern
+  * Istanbul, Turkey
 
-  
+
 Languages
 ======
 * English (TOEFL 93)
-* French (Delf C1)
+* French (DALF C1)
 * Spanish (Beginner)
 * Python
 * SQL
@@ -46,11 +54,7 @@ Languages
 
 Teaching
 ======
-* Summer 2021: Teaching Assistant
-  * CS515 - Machine Learning
-
-* Spring 2021: Teaching Assistant
+* 2020 - 2022: Teaching Assistant, Sabancı University
+  * CS412 - Machine Learning
   * CS404 - Artificial Intelligence
-
-* Fall 2020: Teaching Assistant
-  * CS515 - Machine Learning
+  * CS210 - Introduction to Data Science
