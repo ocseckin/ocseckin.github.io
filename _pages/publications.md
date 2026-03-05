@@ -143,7 +143,7 @@ author_profile: true
 <div class="paper-card">
   <img class="paper-thumb" src="/images/constructive_conflict.png" alt=""/>
   <div class="paper-info">
-    <p class="paper-title"><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/31463">Identifying Constructive Conflict in Online Discussions through Controversial yet Toxicity Resilient Posts</a></p>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2509.18303">Identifying Constructive Conflict in Online Discussions through Controversial yet Toxicity Resilient Posts</a></p>
     <span class="venue-badge badge-published">AAAI ICWSM 2025</span>
     <p class="paper-desc">We propose <em>constructive conflict</em> as a criterion for algorithmic curation: posts that are controversial (challenging dialogue) yet toxicity resilient (respectful). High-accuracy models capturing both dimensions show that political posts are often controversial and attract toxic responses — but some remain resilient to toxicity despite their controversy, tending to use politeness cues such as gratitude and hedging.</p>
   </div>
@@ -152,7 +152,7 @@ author_profile: true
 <div class="paper-card">
   <img class="paper-thumb" src="/images/info_operations.png" alt=""/>
   <div class="paper-info">
-    <p class="paper-title"><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/31476">Labeled Datasets for Research on Information Operations</a></p>
+    <p class="paper-title"><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/35958">Labeled Datasets for Research on Information Operations</a></p>
     <span class="venue-badge badge-published">AAAI ICWSM 2025</span>
     <p class="paper-desc">We release labeled datasets covering 26 information operation campaigns, pairing IO posts verified by social media platforms with over 13M posts by 303k organic accounts discussing the same topics. The datasets enable development and benchmarking of IO detection algorithms by providing the control data that has been missing from prior work.</p>
   </div>
@@ -179,7 +179,7 @@ author_profile: true
 <div class="paper-card">
   <img class="paper-thumb" src="/images/academic_network_new.png" alt=""/>
   <div class="paper-info">
-    <p class="paper-title"><a href="https://doi.org/10.1140/epjds/s13688-022-00369-z">Academic Support Network Reflects Doctoral Experience and Productivity</a></p>
+    <p class="paper-title"><a href="https://journals.sagepub.com/doi/10.1177/20563051241229657">Academic Support Network Reflects Doctoral Experience and Productivity</a></p>
     <span class="venue-badge badge-published">EPJ Data Science 2022</span>
     <p class="paper-desc">We analyze 26,236 dissertation acknowledgments to build an "academic support network" revealing five communities that support PhD students: Academic, Administration, Family, Friends &amp; Colleagues, and Spiritual. Female students mention fewer people across most communities, and the total number of acknowledgments predicts whether a discipline operates as individual or team science. University rankings and the size of academic support networks are positively correlated with productivity.</p>
   </div>
